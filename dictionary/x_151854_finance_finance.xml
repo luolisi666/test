@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="finance" max_length="40" name="x_151854_finance_finance" type="collection"/>
+    <element extends="task" label="finance" max_length="40" name="x_151854_finance_finance" type="collection">
+        <element label="when need" max_length="40" name="u_when_need" type="glide_date_time"/>
+    </element>
 </database>
