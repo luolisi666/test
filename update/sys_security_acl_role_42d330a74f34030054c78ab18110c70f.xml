@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-31 09:46:11</sys_created_on>
+        <sys_id>42d330a74f34030054c78ab18110c70f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_151854_finance_finance.x_151854_finance.finance_user</sys_name>
+        <sys_package display_value="finance" source="x_151854_finance">2f83b8634f34030054c78ab18110c74f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="finance">2f83b8634f34030054c78ab18110c74f</sys_scope>
+        <sys_security_acl display_value="x_151854_finance_finance">cad3fc674f34030054c78ab18110c7ff</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_42d330a74f34030054c78ab18110c70f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-31 09:46:11</sys_updated_on>
+        <sys_user_role display_value="x_151854_finance.finance_user" name="x_151854_finance.finance_user">b5d3fc674f34030054c78ab18110c7ee</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

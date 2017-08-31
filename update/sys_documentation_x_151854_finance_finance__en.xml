@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="finance" language="en" table="x_151854_finance_finance">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>finance</label>
+            <language>en</language>
+            <name>x_151854_finance_finance</name>
+            <plural>finances</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 09:46:12</sys_created_on>
+            <sys_id>8ed330a74f34030054c78ab18110c74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>finance</sys_name>
+            <sys_package display_value="finance" source="x_151854_finance">2f83b8634f34030054c78ab18110c74f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="finance">2f83b8634f34030054c78ab18110c74f</sys_scope>
+            <sys_update_name>sys_documentation_x_151854_finance_finance__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 09:46:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_151854_finance_finance</description>
+        <name>x_151854_finance_finance</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-31 09:46:11</sys_created_on>
+        <sys_id>cad3fc674f34030054c78ab18110c7ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_151854_finance_finance</sys_name>
+        <sys_package display_value="finance" source="x_151854_finance">2f83b8634f34030054c78ab18110c74f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="finance">2f83b8634f34030054c78ab18110c74f</sys_scope>
+        <sys_update_name>sys_security_acl_cad3fc674f34030054c78ab18110c7ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-31 09:46:11</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
